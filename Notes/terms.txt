@@ -1,0 +1,3 @@
+EDA-
+
+ETL ->> pipline before loading the data to process
